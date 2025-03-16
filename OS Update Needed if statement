@@ -1,0 +1,3 @@
+## OS Update Needed if statement
+if operating_system = "OS 2":
+    print("Updates needed")
