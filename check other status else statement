@@ -1,0 +1,8 @@
+# check other status else statement
+
+if status == 200:
+   print("OK")
+
+else:
+  print("check other status")
+  
