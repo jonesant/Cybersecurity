@@ -1,0 +1,13 @@
+# elif statement example with else statement
+
+if status == 200:
+   print("OK")
+
+elif status == 400:
+    print("Bad Request")
+
+elif status == 500:
+    print("Internal Server Error")
+
+else:
+   print("check other status")
