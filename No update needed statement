@@ -1,0 +1,7 @@
+# No update needed statement else statement
+
+operating_system = "OS 3"
+if operating_system == "OS 2":
+    print("Updates needed")
+else:
+    print("No update needed")
